@@ -65,6 +65,7 @@ a {
 .menu a {
   color: #f0f1f2;
   font-weight: lighter;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1rem;
   letter-spacing: 0.1rem;
   display: block;
