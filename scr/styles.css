@@ -30,16 +30,18 @@ i {
 }
 
 nav {
-  background: #070608;
+  background:#181712eb;
   box-shadow: 0 5px 15px #634b01;
 }
 
 .nav-main {
   max-width: 95%;
-  margin: 0 0.2rem 0 0.2rem;
+  /* margin: 0 0.2rem 0 0.2rem; */
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+
+  
 }
 
 .nav-header {
@@ -100,7 +102,6 @@ a {
   font-weight: lighter;
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
-  /* padding: 1rem; */
   margin-left: 0.1rem;
-  margin-top: absolute;
+  justify-content: end;
 }
