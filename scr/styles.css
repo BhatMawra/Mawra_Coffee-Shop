@@ -30,7 +30,7 @@ i {
 }
 
 nav {
-  background:#181712eb;
+  background:rgba(35, 25, 17, 0.986);
   box-shadow: 0 5px 15px #634b01;
 }
 
@@ -77,12 +77,13 @@ a {
 }
 
 .menu a:hover {
-  background: #074173;
-  color: #e9f1f6;
+  background: #3b4853;
+  color: #ecf5fa;
 }
 
 .welcome-msg {
   display: flex;
+  color: #835425;
   justify-content: center;
   font-family: sans-serif;
 }
